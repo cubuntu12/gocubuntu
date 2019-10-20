@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ubuntu + Cinnamon = CUbuntu 
 
 You can use the [editor on GitHub](https://github.com/cubuntu12/gocubuntu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
